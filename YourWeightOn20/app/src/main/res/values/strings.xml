@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YourWeightOn2.0</string>
+    <string name="main_title">What\'s your Weight on...?</string>
+    <string name="main_hint_edt">Enter your weight</string>
+    <string name="main_button_show_weight">Show Weight</string>
+    <string name="mars">Mars</string>
+    <string name="venus">Venus</string>
+    <string name="jupiter">Jupiter</string>
+</resources>

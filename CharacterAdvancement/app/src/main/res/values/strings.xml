@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CharacterAdvancement</string>
+    <string name="main_title">Character Advancement</string>
+    <string name="experience_hint">Experience Points</string>
+    <string name="enter_exp_hint">Ex: 64000</string>
+    <string name="hint_main_button">Check</string>
+</resources>

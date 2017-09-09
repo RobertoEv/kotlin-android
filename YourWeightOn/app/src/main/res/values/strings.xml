@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourWeightOn</string>
+    <string name="weight_title">What\'s your weight on Mars?</string>
+    <string name="hint_weight_earth">Ex: 100 (to 100kg)</string>
+    <string name="button_transform">Transform your Weight</string>
+    <string name="resultWeight">Your weight on Mars</string>
+</resources>

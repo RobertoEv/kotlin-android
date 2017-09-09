@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ValoresModificadoresDeHabilidades</string>
+    <string name="title_main">Modificadores de Habilidades</string>
+    <string name="hint_main">Digite o valor do atributo</string>
+    <string name="button_main">Verificar Modificador</string>
+</resources>
