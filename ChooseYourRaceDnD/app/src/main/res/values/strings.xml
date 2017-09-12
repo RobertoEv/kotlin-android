@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChooseYourRaceDnD</string>
+    <string name="main_title">Choose Your Race</string>
+    <string name="dwarf">Dwarf</string>
+    <string name="elf">Elf</string>
+    <string name="halfling">Halfling</string>
+    <string name="human">Human</string>
+    <string name="dragonborn">Dragonborn</string>
+    <string name="gnome">Gnome</string>
+    <string name="half_elf">Half Elf</string>
+    <string name="half_orc">Half Orc</string>
+    <string name="tiefling">Tiefling</string>
+    <string name="show_button">Show</string>
+</resources>
