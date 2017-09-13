@@ -1,4 +1,4 @@
-package com.example.roberto.shownextactivity
+package com.example.roberto.shownextactivityandback
 
 import android.app.Activity
 import android.support.v7.app.AppCompatActivity
@@ -14,18 +14,16 @@ class SecondActivity : AppCompatActivity() {
 
         var data = intent.extras
 
-
         if (data != null){
             var name = data.get("name").toString()
-            var char = data.getChar("char").toString()
             var age = data.getInt("age").toString()
 
-            Toast.makeText(this, "Name: $name\nChar: $char\nAge: $age",
-                    Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Name: $name\nAge: $age", Toast.LENGTH_LONG).show()
         }
 
-        goBackButton.setOnClickListener {
+        secondButtonId.setOnClickListener {
             var returnIntent = this.intent
+
             returnIntent.putExtra("return", "Hello from Second Activity")
             setResult(Activity.RESULT_OK, returnIntent)
             finish()
