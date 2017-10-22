@@ -18,8 +18,7 @@ import org.json.JSONObject
 class MainActivity : AppCompatActivity() {
 
     var volleyRequest: RequestQueue? = null
-    val stringLink = "https://www.magadistudio.com" +
-            "/complete-android-developer-course-source-files/string.html"
+    val stringLink = "https://www.magadistudio.com/complete-android-developer-course-source-files/string.html"
     val movieLink = "https://netflixroulette.net/api/api.php?director=Quentin%20Tarantino"
     val earthquakeLink = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.geojson"
 
